@@ -2,7 +2,7 @@
 
 Welcome to the **Smart Unit Converter App** — a modern, fast, and intuitive tool to convert units like **Length**, **Weight**, **Time**, **Temperature**, **Speed**, and more, all with just a few clicks! 🧮
 
-🔗 **Live App:** [Click here to open the Unit Converter App](https://unitconverterbymhz.streamlit.app/)
+🔗 **Live App:** [Click here to open the Unit Converter App](https://unit-converter-bymhz.streamlit.app/)
 
 ## ✨ Features
 - 🚀 **Advanced Unit Converter**  
